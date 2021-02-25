@@ -1,4 +1,3 @@
 # pp-sfmc
 
-Setup of our new SFMC GitHub Repository. 
-blablablabla
+Setup of our new SFMC GitHub Repository.
